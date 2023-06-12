@@ -1,7 +1,8 @@
 <h2 align="left">Hi 👋! My name is Shrutika Jha and I'm a CSE Undergraduate, from Techno Main Salt Lake, Kolkata</h2>
-<h3> ➡️ Tech Team Member at IIC TMSL, Kolkata. <br>
-➡️ Aspiring SDE <br>
-➡️ Data Science & Machine Learning Enthusiast</h3>
+<h3> ➡️ Tech Team Member at IIC TMSL, Kolkata <br>
+  ➡️ Aspiring SDE <br>
+  ➡️ Data Science and Machine Learning Enthusiast 
+  </h3>
 
 ###
 
@@ -28,6 +29,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
 </div>
 
 ###
