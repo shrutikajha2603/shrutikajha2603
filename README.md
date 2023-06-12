@@ -48,7 +48,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/shrutika2603/shrutika2603/output/snake.svg" alt="Snake animation" />
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shrutika2603&theme=radical&no-frame=false&no-bg=false&margin-w=4)
