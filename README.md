@@ -8,6 +8,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shrutika2603&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+    <img src="https://streak-stats.demolab.com?user=shrutika2603&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shrutika2603&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -31,7 +32,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
+  
 </div>
+
+## My Workstation
+![](https://img.shields.io/badge/Windows_11_Pro-informational?style=flat&logo=Windows11&logoColor=white&color=0078d6)
+![](https://img.shields.io/badge/Ubuntu_22.04-informational?style=flat&logo=Ubuntu&logoColor=white&color=dd4814)
+![](https://img.shields.io/badge/Intel-i5_12th_Gen-informational?style=flat&logo=intel&labelColor=08499d&logoColor=white&color=01a9ea)
+![](https://img.shields.io/badge/RAM-8_GB-informational?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABmJLR0QA/wD/AP+gvaeTAAAAqUlEQVQokaWSsQ3CQAxF36GIMlQMAbkFaOgoGQCJIdiKIl3YIYxAg6gjSso0n8YJLhC5E1+yLJ39zpb84V9JCpK2lqOkpUX0tW/gQlJnuZZ0tKh9begPBq2BfeJyTQjhNkxrJd0lPTWtFmBmv5TABbgmTCwBCvdwSlwVPzFbxXTLqAZ4ADsPvhLADRCBDj7nWAEHYD4B98B5PIfBWQbwoLdc5SxX/bRcrt4PhcIRoFAWyAAAAABJRU5ErkJggg==&logoColor=white&color=success)
+![](https://img.shields.io/badge/Intel-iRIS_Xe-informational?style=flat&logo=intel&labelColor=08499d&logoColor=white&color=4bbf92)
+
+##
 
 ###
 
@@ -62,8 +73,7 @@
 [![](https://visitcount.itsvg.in/api?id=shrutika2603&icon=5&color=11)](https://visitcount.itsvg.in)
 
 <br>
-##
-### Watch a snake 🐍 eating my contribution graph on Github:
+
 ##
 <div align=center> 
    <img src="https://github.com/satyakidey75/satyakidey75/blob/output/github-contribution-grid-snake.svg">
