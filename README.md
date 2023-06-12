@@ -62,6 +62,12 @@
 [![](https://visitcount.itsvg.in/api?id=shrutika2603&icon=5&color=11)](https://visitcount.itsvg.in)
 
 <br>
+##
+### Watch a snake 🐍 eating my contribution graph on Github:
+##
+<div align=center> 
+   <img src="https://github.com/satyakidey75/satyakidey75/blob/output/github-contribution-grid-snake.svg">
+</div>
 
-![Snake animation](https://github.com/shrutika2603/shrutika2603/blob/output/github-contribution-grid-snake.svg)
+
 
