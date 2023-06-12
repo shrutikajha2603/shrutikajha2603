@@ -1,4 +1,5 @@
 <h2 align="left">Hi 👋! My name is Shrutika Jha and I'm a CSE Undergraduate, from Techno Main Salt Lake, Kolkata</h2>
+<h3> Tech Team Member at IIC TMSL, Kolkata </h3>
 
 ###
 
