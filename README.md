@@ -76,7 +76,7 @@
 
 ##
 <div align=center> 
-   <img src="https://github.com/satyakidey75/satyakidey75/blob/output/github-contribution-grid-snake.svg">
+   <img src="https://github.com/shrutika2603/shrutika2603/blob/output/github-contribution-grid-snake.svg">
 </div>
 
 
