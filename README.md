@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shrutika Jha</h1>
 <h3 align="center">An aspiring SDE from India</h3>
+<h3>🏫 A CSE Undergraduate at Techno Main Salt Lake, Kolkata</h3>
+<h3>👩🏻‍💻 Tech Team Member @ IIC TMSL</h3>
+<h3>💻 A Passionate Coder</h3>
+<h3>🛑 Data Science & Machine Learning Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrutikajha2603&label=Profile%20views&color=0e75b6&style=flat" alt="shrutikajha2603" /> </p>
 
