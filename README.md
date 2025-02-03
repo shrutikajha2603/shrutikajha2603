@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shrutika Jha</h1>
 <h3 align="center">An aspiring SDE from India</h3>
 <h3>🏫 A CSE Undergraduate at Techno Main Salt Lake, Kolkata</h3>
-<h3>👩🏻‍💻 Tech Team Member @ IIC TMSL</h3>
+<h3>👩🏻‍💻 Tech Team Member @ GDG On-Campus TMSL</h3>
 <h3>💻 A Passionate Coder</h3>
 <h3>🛑 Data Science & Machine Learning Enthusiast</h3>
 
